@@ -2,6 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "outDir": "../dist",
+    "declarationMap": true,
     "target": "es5",
     "module": "es2020",
     "moduleResolution": "node",
