@@ -17,7 +17,7 @@
     "build": "ng build ng2-file-upload",
     "build.watch": "ng build ng2-file-upload --watch",
     "start": "ng serve ng2-file-upload-demo --aot",
-    "pretest": "run-s lint build link",
+    "pretest": "run-s lint build",
     "test": "ng test ng2-file-upload-test",
     "test-coverage": "ng test ng2-file-upload-test --code-coverage",
     "version": "npm run flow.changelog && git add -A"
