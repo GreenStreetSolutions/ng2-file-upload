@@ -8,7 +8,7 @@
     "noEmitHelpers": false,
     "lib": ["es6", "dom"],
     "mapRoot": "./",
-    "module": "esnext",
+    "module": "es2020",
     "moduleResolution": "node",
     "outDir": "../temp/out-tsc",
     "sourceMap": true,

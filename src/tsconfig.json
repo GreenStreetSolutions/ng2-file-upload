@@ -3,7 +3,7 @@
     "baseUrl": ".",
     "outDir": "../dist",
     "target": "es5",
-    "module": "esnext",
+    "module": "es2020",
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
